@@ -27,6 +27,7 @@ to add your name to the list below (in alphabetical order).
 * Barinder S. Banwait
 * Peter Bruin (Universiteit Leiden, NL)
 * Kevin Buzzard (Imperial College London, UK)
+* Victoria Cantoral (KU Leuven, BE)
 * Johan Commelin (Universität Freiburg, DE)
 * Cameron Freer (Massachusetts Institute of Technology, US)
 * Yury Kudryashov (University of Toronto, CA)
